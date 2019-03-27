@@ -1,0 +1,26 @@
+{
+  "name": "deploy-tutorial",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5",
+    "react-scripts": "2.1.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "clean": "rm -rf build",
+    "build": "react-scripts build",
+    "postbuild": "react-snap",
+    "deploy": "npm run clean && npm run build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
