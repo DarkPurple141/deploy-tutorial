@@ -1,5 +1,6 @@
 {
   "name": "deploy-tutorial",
+  "homepage": "https://darkpurple141.github.io/deploy-tutorial",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,5 +23,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "react-snap": "^1.23.0"
+  }
 }
