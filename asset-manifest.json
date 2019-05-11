@@ -1,0 +1,13 @@
+{
+  "main.css": "/deploy-tutorial/static/css/main.9d4a0cc6.chunk.css",
+  "main.js": "/deploy-tutorial/static/js/main.6869bce8.chunk.js",
+  "main.js.map": "/deploy-tutorial/static/js/main.6869bce8.chunk.js.map",
+  "runtime~main.js": "/deploy-tutorial/static/js/runtime~main.5a9dddf7.js",
+  "runtime~main.js.map": "/deploy-tutorial/static/js/runtime~main.5a9dddf7.js.map",
+  "static/js/2.9cc6eec3.chunk.js": "/deploy-tutorial/static/js/2.9cc6eec3.chunk.js",
+  "static/js/2.9cc6eec3.chunk.js.map": "/deploy-tutorial/static/js/2.9cc6eec3.chunk.js.map",
+  "index.html": "/deploy-tutorial/index.html",
+  "precache-manifest.c98d7ca46fbeb43ea5218f54449e7a6e.js": "/deploy-tutorial/precache-manifest.c98d7ca46fbeb43ea5218f54449e7a6e.js",
+  "service-worker.js": "/deploy-tutorial/service-worker.js",
+  "static/css/main.9d4a0cc6.chunk.css.map": "/deploy-tutorial/static/css/main.9d4a0cc6.chunk.css.map"
+}
